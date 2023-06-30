@@ -27,7 +27,7 @@ https://www.linkedin.com/in/paloju-hima-bindu-134603222
 ### Domain : Data Science
 ### Programming Language : Python
 ### IDE : Jupyter Notebook
-### GitHub link : https://lnkd.in/gyF4pr6H
+### GitHub link : https://github.com/himabindupaloju/LGMVIP-DATASCIENCE-HIMA-BINDU
 
 #letsgrowmore More provides a fantastic platform for enhancing skills and gaining practical experience. I had the opportunity to work on a challenging project that allowed me to showcase my abilities and learn new technologies. The guidance and support from the #letsgrowmore community have been invaluable throughout this journey.
 
